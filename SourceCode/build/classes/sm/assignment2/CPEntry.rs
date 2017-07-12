@@ -1,0 +1,17 @@
+sm.assignment2.ConstantUtf8
+sm.assignment2.ConstantRef
+sm.assignment2.ConstantString
+sm.assignment2.InvalidTagException
+sm.assignment2.ConstantDouble
+sm.assignment2.ConstantClass
+sm.assignment2.ConstantNameAndType
+sm.assignment2.ConstantMethodType
+sm.assignment2.ConstantInterfaceMethodRef
+sm.assignment2.ConstantInteger
+sm.assignment2.ConstantLong
+sm.assignment2.ConstantInvokeDynamic
+sm.assignment2.CPEntry
+sm.assignment2.ConstantMethodRef
+sm.assignment2.ConstantFloat
+sm.assignment2.ConstantFieldRef
+sm.assignment2.ConstantMethodHandle
